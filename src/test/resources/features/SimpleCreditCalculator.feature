@@ -29,4 +29,5 @@ Examples:
   | 1 | limited Liability Company | 1 | 63 |
   | 1 | PARTNERSHIP | 1 | 75 |
   | 1 | otHerS | 1 | 0 |    
+  | 0 | Others | -1 | 0 |
    
